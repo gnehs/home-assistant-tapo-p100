@@ -18,7 +18,7 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/petretiandrea/home-assistant-tapo-p100/issues",
   "requirements": [
-    "plugp100==6.0.1"
+    "plugp100 @ git+https://github.com/gnehs/plugp100@46175732d55dbe623afd31fa55d020d83c255b14"
   ],
   "version": "3.5.3"
 }
